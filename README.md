@@ -7,7 +7,7 @@ Code release for [A Tractable Inference Perspective of Offline RL](https://openr
 
 ## Installation
 
-Trifle builds upon [TT-repo](https://github.com/jannerm/trajectory-transformer.git). Before proceeding, ensure you have installed the base environments following the instructions in the TT-repo.
+This implementation of Trifle builds upon [TT-repo](https://github.com/jannerm/trajectory-transformer.git). Before proceeding, ensure you have installed the base environments following the instructions in the TT-repo.
 
 ### **1. Install a compatible version of `pyjuice`**
 
