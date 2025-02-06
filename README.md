@@ -2,14 +2,14 @@
 
 Code release for [A Tractable Inference Perspective of Offline RL](https://openreview.net/pdf?id=UZIHW8eFRp)
 
-![The Trifle pipeline efficiently integrates tractable inference techniques into offline reinforcement learning, enabling more robust decision-making and improved policy evaluation.](utils/trifle_pipeline.jpg.png)
+![The Trifle pipeline efficiently integrates tractable inference techniques into offline reinforcement learning, enabling more robust decision-making and improved policy evaluation.](utils/trifle_pipeline.jpg)
 
 
 ## Installation
 
 Trifle builds upon [TT-repo](https://github.com/jannerm/trajectory-transformer.git). Before proceeding, ensure you have installed the base environments following the instructions in the TT-repo.
 
-### \*\*1. Install a compatible version of \*\***`pyjuice`**
+### **1. Install a compatible version of `pyjuice`**
 
 ```bash
 git clone https://github.com/Tractables/pyjuice
